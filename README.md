@@ -18,8 +18,8 @@
 1. 信息积累和流通，通过Github issue；
 2. 项目进度，通过Github Project看板；
 3. 项目呈现：
-  1. 通过Github code（markdown文件呈现最终报告）；
-  2. PPT通过谷歌云盘呈现。
+    1. 通过Github code（markdown文件呈现最终报告）；
+    2. PPT通过谷歌云盘呈现。
   
   
   
