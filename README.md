@@ -15,7 +15,7 @@
 2. 完成一份ppt，并参加路演。
 
 ## 协作方式：
-1. 信息积累和流通，通过Github issue；
+1. 信息积累和流通，通过Github issue和谷歌表格（将海量信息降维成清单）；
 2. 项目进度，通过Github Project看板；
 3. 项目呈现：
     1. 通过Github code（markdown文件呈现最终报告）；
