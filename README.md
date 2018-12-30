@@ -25,5 +25,9 @@
 1. Github Markdown写作（标题、加粗、斜体、引用、分割、表格等常规应用）；
 2. Github project基础使用方法及工作流；
   
+## 历次会议记录：
+* [2018-12-30](https://github.com/evanchan92/SocialPsychologyOverview/wiki/2018-12-30-%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95)
+
 Changelog：
+2018-12-30  陈晨      更新第一次会议记录
 2018-12-27  陈晨Evan  initiate
