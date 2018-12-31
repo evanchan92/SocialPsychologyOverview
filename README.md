@@ -15,13 +15,13 @@
 2. 完成一份ppt，并参加路演。
 
 ## 协作方式：
-源头文档管理 -> @Zotero
-知识卡片积累 -> @Zotero
-提问        -> @Github issue异步沟通
-会议纪要沉淀 -> @Github Wiki
-稿件写作    -> @Github code
-PPT创作     -> @Google Presentation
-会议        -> @Zoom 每周一到两次
+* 源头文档管理 -> @Zotero
+* 知识卡片积累 -> @Zotero
+* 提问        -> @Github issue异步沟通
+* 会议纪要沉淀 -> @Github Wiki
+* 稿件写作    -> @Github code
+* PPT创作     -> @Google Presentation
+* 会议        -> @Zoom 每周一到两次
   
 ## 技能需求：
 1. Github Markdown写作（标题、加粗、斜体、引用、分割、表格等常规应用）；
